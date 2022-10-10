@@ -8,18 +8,12 @@
   src: url("/Fonts/ArgentumSans-Medium.ttf") format("truetype");
 }
 
-@media screen and (min-width: 601px) {
-   .p-Text {
-    font-size: 26pt;
-  }
-}
-
 @media screen and (max-width: 600px) {
   .H1-Text{
-    font-size: 24pt;
+    font-size: 30px;
   }
   .p-Text {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
