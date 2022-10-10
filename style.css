@@ -12,6 +12,13 @@
    .p-Text {
     font-size: 26pt;
   }
+}
+
+@media screen and (max-width: 600px) {
+  div.example {
+    font-size: 20pt;
+  }
+}
 
 body {
   background-color: black;
