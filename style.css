@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Hanson-Bold";
-    src: "Fonts\Hanson-Bold.otf" format('opentype');
+    src: url('https://github.com/Sharku-Kun/sharku.xyz/blob/main/Fonts/Hanson-Bold.otf') format('opentype');
 }
 
 @font-face {
-    font-family: "Uncut-Sans-Regular";
-    src: "Fonts\ArgentumSans-Medium.ttf" format('truetype');
+    font-family: "UArgentumSans-Medium";
+    src: url('https://github.com/Sharku-Kun/sharku.xyz/blob/main/Fonts/ArgentumSans-Medium.ttf') format('truetype');
 }
 
 body {
@@ -43,7 +43,7 @@ body {
 .H2-Text {
 
     color: #F1F1F1;
-    font-family: Uncut-Sans-Regular;
+    font-family: ArgentumSans-Medium;
 
 }
 
