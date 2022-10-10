@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Hanson-Bold";
-    src: url('Fonts/Hanson-Bold.otf') format('opentype');
+    src: url('Fonts\Hanson-Bold.otf') format('opentype');
 }
 
 @font-face {
     font-family: "Uncut-Sans-Regular";
-    src: url('Fonts/ArgentumSans-Medium.ttf') format('truetype');
+    src: url('Fonts\ArgentumSans-Medium.ttf') format('truetype');
 }
 
 body {
