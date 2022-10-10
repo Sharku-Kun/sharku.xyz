@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Hanson-Bold";
-    src: url('https://github.com/Sharku-Kun/sharku.xyz/blob/main/Fonts/Hanson-Bold.otf') format('opentype');
+    src: url('/Fonts/Hanson-Bold.otf') format('opentype');
 }
 
 @font-face {
-    font-family: "UArgentumSans-Medium";
-    src: url('https://github.com/Sharku-Kun/sharku.xyz/blob/main/Fonts/ArgentumSans-Medium.ttf') format('truetype');
+    font-family: "ArgentumSans-Medium";
+    src: url('/Fonts/ArgentumSans-Medium.ttf') format('truetype');
 }
 
 body {
