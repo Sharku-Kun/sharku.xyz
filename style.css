@@ -24,6 +24,7 @@ body {
 
 .H1-Text {
   color: rgb(0, 0, 0);
+  font-size: 9vw;
   letter-spacing: 5px;
   font-family: Hanson-Bold;
 }
