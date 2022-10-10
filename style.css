@@ -24,7 +24,6 @@ body {
 
 .H1-Text {
   color: rgb(0, 0, 0);
-  font-size: 4vw;
   letter-spacing: 5px;
   font-family: Hanson-Bold;
 }
@@ -42,7 +41,6 @@ body {
 
 .p-Text {
   color: #f1f1f1;
-  font-size: 2vw;
   font-family: ArgentumSans-Medium;
 }
 
