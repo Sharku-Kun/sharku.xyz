@@ -7,7 +7,6 @@
     font-family: "ArgentumSans-Medium";
     src: url('/Fonts/ArgentumSans-Medium.ttf') format('truetype');
 }
--RemoveThe/infront of Fonts to see the Fonts locally you need the / at front for github Fonts-
 
 body {
     background-color: black;
