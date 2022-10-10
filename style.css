@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Hanson-Bold";
+    src: url('Fonts/Hanson-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "Uncut-Sans-Regular";
+    src: url('Fonts/ArgentumSans-Medium.ttf') format('truetype');
+}
+
+body {
+    background-color: black;
+    margin: 0px;
+}
+
+#Profile {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border:6px solid #f6e71d;
+   
+}
+
+.H1-Text {
+    color: rgb(0, 0, 0);
+    letter-spacing: 5px;
+    font-family: Hanson-Bold;
+}
+
+#socials {
+    background-color: #f6e71d;
+}
+#info {
+    background-color: #f6e71d;
+}
+
+#EDUCATION {
+    background-color: #f6e71d;
+}
+
+.H2-Text {
+
+    color: #F1F1F1;
+    font-family: Uncut-Sans-Regular;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+#Flex {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#FB {
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+}
+#IG {
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+}
+#DC {
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+}
+#EM {
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+}
+
+#SOCIALS {
+    margin-bottom: 0;
+}
