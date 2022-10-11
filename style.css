@@ -19,10 +19,10 @@
 
 @media screen and (max-width: 600px) {
   .H1-Text{
-    font-size: 30px;
+    font-size: 26px;
   }
   .p-Text {
-    font-size: 18px;
+    font-size: 15px;
   }
 }
 
@@ -49,7 +49,7 @@ html,body {
 
 #socials {
   background-color: #f6e71d;
-  height: 10vh;
+  height: 17vh;
 }
 #info {
   background-color: #f6e71d;
