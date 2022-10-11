@@ -19,13 +19,13 @@
 
 @media screen and (max-width: 600px) {
   .H1-Text{
-    font-size: 23px;
+    font-size: 22px;
   }
   .p-Text {
-    font-size: 10px;
+    font-size: 12px;
   }
   #socials {
-    min-height: 100%
+    min-height: 100%;
   }
 } 
 
