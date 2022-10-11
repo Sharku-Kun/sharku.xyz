@@ -24,9 +24,10 @@
   .p-Text {
     font-size: 10px;
   }
-
-
-}
+  #socials {
+    min-height: 100%
+  }
+} 
 
 html,body {
   height:100%; 
