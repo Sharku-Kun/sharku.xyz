@@ -47,7 +47,9 @@ body {
 }
 
 #socials {
+  position: fixed;
   background-color: #f6e71d;
+  height: 100vh;
 }
 #info {
   background-color: #f6e71d;
